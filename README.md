@@ -6,6 +6,7 @@
 
 # Related
 
+* http://www.pipelinedb.com/blog/making-postgres-bloom
 * https://speakerdeck.com/bdarfler/probabilistic-data-structures
 
 # References
